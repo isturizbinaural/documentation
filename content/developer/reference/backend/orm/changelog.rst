@@ -4,6 +4,13 @@
 Changelog
 =========
 
+
+Odoo version 18.0
+=================
+
+- Translations are made available from the `Environment` with `#174844 <https://github.com/odoo/odoo/pull/174844>`_.
+
+
 Odoo Online version 17.4
 ========================
 
